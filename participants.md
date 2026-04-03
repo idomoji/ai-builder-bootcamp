@@ -4,3 +4,4 @@
 |------|------|--------------------------|
 | Maail| Instructor | Example entry |
 | Suresh Sakadivan| Intern | trying to learn slowly |
+| Jiawen | Video Editor | Testing my brain capacity |
